@@ -73,5 +73,8 @@ pytest -v
 - `empleados.json`: Archivo de base de datos (se crea automáticamente).
 - `tests/`: Pruebas unitarias.
 
+## Repositorio
+[https://github.com/codemasterg19/directorio-trabajadores-Unir.git](https://github.com/codemasterg19/directorio-trabajadores-Unir.git)
+
 ## Autor
 Estudiante Pablo Jiménez - UNIR,  Actividad Módulo 2
